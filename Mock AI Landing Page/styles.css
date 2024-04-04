@@ -40,6 +40,12 @@ form {
     border: 2px solid #000;
     border-radius: 10px;
     padding: 5px;
+}
 
+body {
+    background-color: black;
+}
 
+a:visited {
+    color: lightgray;
 }
