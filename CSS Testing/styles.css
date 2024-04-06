@@ -1,13 +1,29 @@
-h1 {
-    font-family: impact;
-    background-color: rgba(0, 0, 0, 0.9);
-    padding: 10px;
-    color: rgba(255, 255, 255, 0.9);
-
+html {
+    background-color: #2ecc71;
 }
 
-body {
-    background: linear-gradient(90deg, gray, black, white);
-    background-size: auto;
-    /* Adjust the size of the stripes as needed */
+h1 {
+    font-family: IMPACT;
+    background-color: #3498db;
+}
+
+h2 {
+    font-family: impact;
+    text-align: center;
+    font-size: 200%;
+}
+
+h3 {
+    font-family: impact;
+    text-align: center;
+    background-color: #f39c12;
+    font-size: 150%;
+}
+
+p {
+    padding: auto;
+    border: 5px;
+    border-radius: 1px;
+    border-width: 2px;
+    background-color: #3498db;
 }
