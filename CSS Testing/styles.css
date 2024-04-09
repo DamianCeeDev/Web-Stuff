@@ -1,23 +1,32 @@
 html {
-    background-color: #2ecc71;
+    border: 20px;
+    border-radius: 1px;
+    background-color: #808080;
+    color: white;
+
 }
 
 h1 {
     font-family: IMPACT;
-    background-color: #3498db;
+    background-color: #000000;
+    padding: 20px;
+    text-align: center;
 }
 
 h2 {
     font-family: impact;
     text-align: center;
     font-size: 200%;
+    background-color: #000000;
+    color: white;
 }
 
 h3 {
     font-family: impact;
     text-align: center;
-    background-color: #f39c12;
+    background-color: #000000;
     font-size: 150%;
+    padding: 20px;
 }
 
 p {
@@ -25,5 +34,5 @@ p {
     border: 5px;
     border-radius: 1px;
     border-width: 2px;
-    background-color: #3498db;
+    background-color: #000000;
 }
