@@ -33,13 +33,13 @@ article {
     padding: 5px;
 }
 
-form {
+fieldset {
 
     text-align: center;
     background-color: #EAEAEA;
     border: 2px solid #000;
     border-radius: 10px;
-    padding: 5px;
+    padding: 10px;
 }
 
 body {
